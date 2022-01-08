@@ -549,15 +549,3 @@ return [
     </tr>
 </tbody>
 </table>
-
-###  SHA256
-
-#### Using Hashing Facade
-
-#### Using Dependency Injection
-
-###  SHA512
-
-#### Using Hashing Facade
-
-#### Using Dependency Injection
